@@ -1,0 +1,9 @@
+
+In Tamil Nadu , where people have a huge craze on Movies the Business revoloving around that is also huge, around 170 movies are released
+every year and huge amounts of money is invested in that and huge amount of money is earned by the producers.
+
+Various factors affect the Collections of these Movies ,and these factors have changed over years.
+
+
+In the python notebook, I have visualized the trends and features .
+ *I have written the decription for each graph in comments
